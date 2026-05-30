@@ -74,7 +74,7 @@ search_btn = tk.Button(
 )
 search_btn.pack(pady=10)
 
-# Result
+# Results
 result_label = tk.Label(
     root,
     text="Enter a city name",
